@@ -5,10 +5,10 @@ import org.spring.springboot.domain.City;
 
 /**
  * 城市 DAO 接口类
- *
+ * <p>
  * Created by xchunzhao on 02/05/2017.
  */
-@Mapper // 标志为 Mybatis 的 Mapper
+@Mapper//标志为 Mybatis 的 Mapper
 public interface CityDao {
 
     /**
