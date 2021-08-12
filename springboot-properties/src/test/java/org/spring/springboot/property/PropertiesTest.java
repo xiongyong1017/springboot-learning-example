@@ -35,6 +35,7 @@ public class PropertiesTest {
 
     @Test
     public void randomTestUser() {
+
         LOGGER.info("\n\n" + userProperties.toString() + "\n");
     }
 

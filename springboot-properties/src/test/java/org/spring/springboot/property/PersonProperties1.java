@@ -36,4 +36,9 @@ public class PersonProperties1 {
      */
     @Value("${person.pid}")
     private String pid;
+    /**
+     * 描述
+     */
+    @Value("${person.desc}")
+    private String desc;
 }

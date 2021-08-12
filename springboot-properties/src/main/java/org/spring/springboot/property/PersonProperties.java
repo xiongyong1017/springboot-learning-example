@@ -34,4 +34,8 @@ public class PersonProperties {
      * 编号
      */
     private String pid;
+    /**
+     * 描述
+     */
+    private String desc;
 }

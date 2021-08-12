@@ -7,7 +7,8 @@
 
 City: ${city.cityName}! <br>
 Q:Why I like? <br>
-A:${city.description}!
+A:${city.description}!<br>
+==  ==  ==  ==  ==  ==<br>
 
 </#list>
 </body>
