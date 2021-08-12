@@ -1,10 +1,15 @@
 package org.spring.springboot.result;
 
+import lombok.Getter;
+import lombok.Setter;
+
 /**
  * 返回体
- *
+ * <p>
  * Created by bysocket on 14/03/2017.
  */
+@Getter
+@Setter
 public class ResultBody {
     /**
      * 响应代码
