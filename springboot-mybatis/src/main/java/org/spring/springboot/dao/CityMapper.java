@@ -8,7 +8,7 @@ import org.spring.springboot.domain.City;
  *
  * Created by bysocket on 07/02/2017.
  */
-public interface CityDao {
+public interface CityMapper {
 
     /**
      * 根据城市名称，查询城市信息
